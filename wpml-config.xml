@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<wpml-config>
+    <admin-texts>
+        <key name="ywsfd_share_title"/>
+        <key name="ywsfd_share_title_after"/>
+        <key name="ywsfd_share_text_after"/>
+        <key name="ywsfd_custom_message"/>
+        <key name="ywsfd_fbmeta_title"/>
+        <key name="ywsfd_fbmeta_description"/>
+    </admin-texts>
+</wpml-config>

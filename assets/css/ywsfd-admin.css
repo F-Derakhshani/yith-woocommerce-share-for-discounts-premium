@@ -1,0 +1,114 @@
+.ywsfd-text {
+    width: 50%;
+}
+
+.ywsfd-select {
+    width: 20%;
+}
+
+.ywsfd-textarea {
+    resize: vertical;
+    width: 50%;
+    min-height: 50px;
+}
+
+.ywsfd-textarea-coupon {
+    resize: vertical;
+    width: 100%;
+    min-height: 50px;
+}
+
+.form-table td .ywsfd-coupon {
+    border: 1px solid #cccccc;
+    padding: 0 15px;
+}
+
+.form-table td .ywsfd-coupon p {
+    margin-top: 13px;
+    margin-bottom: 13px;
+    font-size: 13px;
+}
+
+.form-table td .ywsfd-coupon p.checkboxes label {
+    display: inline-block;
+    padding: 4px 1em 2px 0;
+}
+
+.ywsfd-clear-result {
+    font-size: 13px;
+    font-weight: normal;
+    padding: 6px 12px 6px 40px;
+    background-color: #f7f7f7;
+    background-color: rgba(0, 0, 0, 0.03);
+    display: none;
+}
+
+.ywsfd-clear-result:before {
+    color: #d54e21;
+    display: inline-block;
+    font: normal 20px/1 'dashicons';
+    speak: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    vertical-align: top;
+    margin: 0 10px 0 -30px;
+}
+
+.ywsfd-clear-result.clear-success:before {
+    color: #79ba49;
+    content: '\f147';
+}
+
+.ywsfd-clear-result.clear-fail:before {
+    color: #ba0a11;
+    content: '\f158';
+}
+
+.ywsfd-clear-result.clear-progress:before {
+    content: '\f463';
+    -webkit-animation: rotation 2s infinite linear;
+    animation: rotation 2s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
+}
+
+@keyframes rotation {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
+}
+
+.ywsfd_upload_preview {
+    display: inline-block;
+    margin-top: 10px;
+    border: 1px solid #ddd;
+    -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.07);
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.07);
+    max-width: 400px;
+    min-width: 200px;
+    padding: 5px;
+}
+
+.ywsfd_upload_preview_img {
+    max-width: 400px;
+    min-width: 200px;
+    display: block;
+}
+
+.ywsfd_upload_img_url {
+    width: 200px;
+}

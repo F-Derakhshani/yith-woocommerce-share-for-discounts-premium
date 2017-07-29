@@ -1,0 +1,726 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Share For Discounts Premium v1.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-18 10:25+0200\n"
+"PO-Revision-Date: 2016-10-18 10:25+0200\n"
+"Last-Translator: rune <rune@arctic-fritid.no>\n"
+"Language-Team: \n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: plugin-fw\n"
+
+#: class.yith-wc-share-for-discounts-premium.php:498
+msgid "You need to add a Linkedin Client ID"
+msgstr ""
+
+#: class.yith-wc-share-for-discounts-premium.php:504
+msgid "You need to add a Linkedin Client Secret"
+msgstr ""
+
+#: class.yith-wc-share-for-discounts-premium.php:738
+#: class.yith-wc-share-for-discounts.php:309
+msgid ""
+"You closed the parent window. The authorization process has been suspended."
+msgstr ""
+
+#: class.yith-wc-share-for-discounts-premium.php:739
+#: class.yith-wc-share-for-discounts.php:310
+msgid "The authorization process has failed."
+msgstr ""
+
+# @ yith-woocommerce-share-for-discounts
+#: class.yith-wc-share-for-discounts.php:179
+#: class.yith-wc-share-for-discounts.php:183
+msgid "General Settings"
+msgstr "Generelle innstillinger"
+
+# @ yith-woocommerce-share-for-discounts
+#: class.yith-wc-share-for-discounts.php:180
+#: plugin-options/coupon-options.php:18
+msgid "Coupon Settings"
+msgstr "Kupong innstillinger"
+
+# @ yith-woocommerce-share-for-discounts
+#: class.yith-wc-share-for-discounts.php:181
+#: plugin-options/share-options.php:19
+msgid "Sharing Settings"
+msgstr "Delings innstillinger"
+
+# @ yith-woocommerce-share-for-discounts
+#: class.yith-wc-share-for-discounts.php:184
+#: class.yith-wc-share-for-discounts.php:1001
+msgid "Premium Version"
+msgstr "Premium versjon"
+
+# @ yith-woocommerce-share-for-discounts
+# @ yith-woocommerce-coupon-email-system
+#: class.yith-wc-share-for-discounts.php:190
+#: class.yith-wc-share-for-discounts.php:191
+#: includes/class-ywsfd-share-email.php:47
+msgid "Share For Discounts"
+msgstr "Del for rabatter"
+
+# @ yith-woocommerce-share-for-discounts
+#: class.yith-wc-share-for-discounts.php:217
+msgid "You need to add a Facebook App ID"
+msgstr "Du må legge til en Facebook App ID"
+
+#: class.yith-wc-share-for-discounts.php:222
+msgid "You need to add a Twitter Consumer Key (API Key)"
+msgstr ""
+
+#: class.yith-wc-share-for-discounts.php:228
+msgid "You need to add a Twitter Consumer Secret (API Secret)"
+msgstr ""
+
+#: class.yith-wc-share-for-discounts.php:240
+msgid "YITH WooCommerce Share For Discounts"
+msgstr ""
+
+#: class.yith-wc-share-for-discounts.php:290
+#: class.yith-wc-share-for-discounts.php:391
+msgid "via"
+msgstr ""
+
+# @ yith-woocommerce-share-for-discounts
+#: class.yith-wc-share-for-discounts.php:378
+#, fuzzy, php-format
+msgid "Share the product and get 10% discount!"
+msgstr "Del produktet og få 10% rabatt!"
+
+# @ yith-woocommerce-share-for-discounts
+#: class.yith-wc-share-for-discounts.php:413
+#: plugin-options/share-options.php:33
+msgid "Thank you for sharing!"
+msgstr "Takk for at du delte!"
+
+# @ yith-woocommerce-share-for-discounts
+#: class.yith-wc-share-for-discounts.php:417
+#: plugin-options/share-options.php:41
+msgid "Your discount has been activated and applied to your shopping cart."
+msgstr "Din rabatt har blitt aktivert og lagt til i handlekurven din."
+
+# @ yith-woocommerce-share-for-discounts
+#: class.yith-wc-share-for-discounts.php:622
+msgid "Guest"
+msgstr "Gjest"
+
+# @ yith-woocommerce-share-for-discounts
+#: class.yith-wc-share-for-discounts.php:754
+#: plugin-options/coupon-options.php:25
+#, fuzzy, php-format
+msgid "10% off for the shared product"
+msgstr "10% rabatt på det delte produktet"
+
+# @ yith-woocommerce-share-for-discounts
+# @ yith-plugin-fw
+#: class.yith-wc-share-for-discounts.php:998
+msgid "Settings"
+msgstr "Innstillinger"
+
+# @ yith-woocommerce-share-for-discounts
+#: class.yith-wc-share-for-discounts.php:1028
+msgid "Plugin Documentation"
+msgstr "Plugin dokumentasjon"
+
+# @ yith-woocommerce-share-for-discounts
+#: class.yith-wc-share-for-discounts.php:1081
+msgid "To use the coupon, you need to add the product to the cart"
+msgstr "For å bruke rabattkoden, må du legge produktet i handlekurven"
+
+# @ yith-woocommerce-share-for-discounts
+#: includes/class-ywsfd-ajax-premium.php:86
+#: includes/class-ywsfd-ajax-premium.php:90 includes/class-ywsfd-ajax.php:85
+msgid "We were unable to process your request, please try again."
+msgstr "Vi kunne ikke behandle forespørselen din, vennligst prøv igjen."
+
+# @ yith-woocommerce-share-for-discounts
+#: includes/class-ywsfd-ajax-premium.php:97
+#: templates/frontend/mail-form-premium.php:4
+msgid "Your friend email"
+msgstr "Din venns e-postadresse"
+
+# @ yith-woocommerce-share-for-discounts
+#: includes/class-ywsfd-ajax-premium.php:102
+#: templates/frontend/mail-form-premium.php:11
+msgid "Your email"
+msgstr "Din e-postadresse"
+
+# @ yith-woocommerce-share-for-discounts
+#: includes/class-ywsfd-ajax-premium.php:107
+msgid "Your message"
+msgstr "Din melding"
+
+# @ woocommerce
+#: includes/class-ywsfd-ajax-premium.php:124
+msgid "is a required field."
+msgstr ""
+
+# @ woocommerce
+#: includes/class-ywsfd-ajax-premium.php:130
+msgid "is not a valid email address."
+msgstr ""
+
+# @ yith-woocommerce-share-for-discounts
+#: includes/class-ywsfd-ajax-premium.php:143
+#, php-format
+msgid "%s wants to share something with you on %s site"
+msgstr "%s ønsker å dele noe med deg på %s site"
+
+# @ yith-woocommerce-share-for-discounts
+#: includes/class-ywsfd-ajax-premium.php:152
+msgid "There was an error while sending the email, please try again."
+msgstr "Det oppstod en feil under sending av e-posten, vennligst prøv igjen."
+
+#: includes/class-ywsfd-ajax-premium.php:268 includes/class-ywsfd-ajax.php:188
+#: includes/class-ywsfd-ajax.php:228
+msgid "An error occurred"
+msgstr ""
+
+# @ yith-woocommerce-share-for-discounts
+#: includes/class-ywsfd-ajax-premium.php:313
+#, php-format
+msgid "Cancellation completed. %d coupon deleted."
+msgid_plural "Cancellation completed. %d coupons deleted."
+msgstr[0] "Avbestilling fullført. %d rabattkupong ble slettet."
+msgstr[1] "Avbestilling fullført. %d rabattkuponger ble slettet."
+
+# @ yith-woocommerce-share-for-discounts
+#: includes/class-ywsfd-ajax-premium.php:318
+#, php-format
+msgid "An error has occurred: %s"
+msgstr "Det har oppstått en feil: %s"
+
+#: includes/class-ywsfd-ajax.php:204
+msgid "The message field cannot be empty"
+msgstr ""
+
+# @ yith-woocommerce-coupon-email-system
+#: includes/class-ywsfd-share-email.php:46
+msgid ""
+"YITH WooCommerce Share For Discounts gives you the perfect tool to reward "
+"your users when they share the products they are going to purchase."
+msgstr ""
+
+# @ yith-woocommerce-share-for-discounts
+#: init.php:23
+msgid ""
+"YITH WooCommerce Share For Discounts is enabled but not effective. It "
+"requires WooCommerce in order to work."
+msgstr ""
+"YITH WooCommerce Share For Discounts er aktivert, men ikke trådt i kraft. "
+"Dette plugin krever WooCommerce for å fungere."
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/coupon-options.php:22
+msgid "Coupon settings"
+msgstr "Kupong innstillinger"
+
+# @ yith-woocommerce-review-for-discounts
+#: plugin-options/coupon-options.php:34
+msgid "Expired Coupon Clearing"
+msgstr "Sletting av utløpte kuponger"
+
+# @ yith-woocommerce-review-for-discounts
+#: plugin-options/coupon-options.php:36
+msgid ""
+"Automatically deletes expired coupons (Only those created by this plugin)"
+msgstr ""
+"Sletter utløpte kuponger automatisk (Kun de som er opprettet av denne "
+"plugin)."
+
+#: plugin-options/general-options.php:22
+#: plugin-options/premium-general-options.php:22
+#: plugin-options/premium-general-options.php:38
+msgid "or"
+msgstr ""
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/general-options.php:37
+#: plugin-options/premium-general-options.php:53
+msgid "Share For Discounts settings"
+msgstr "Innstillinger"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/general-options.php:41
+#: plugin-options/premium-general-options.php:57
+msgid "Enable YITH WooCommerce Share For Discounts"
+msgstr "Aktiver deling for rabatt"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/general-options.php:52
+#: plugin-options/premium-general-options.php:68
+msgid "Facebook"
+msgstr "Facebook"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/general-options.php:56
+#: plugin-options/premium-general-options.php:72
+msgid "Enable Facebook sharing"
+msgstr "Aktiver deling via Facebook"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/general-options.php:63
+#: plugin-options/premium-general-options.php:79
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/general-options.php:70
+#: plugin-options/premium-general-options.php:86
+msgid "Facebook Button Type"
+msgstr "Facebook knapptype"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/general-options.php:72
+#: plugin-options/premium-general-options.php:88
+msgid "Select the type of button you want to show for Facebook"
+msgstr "Velg den type knapp du ønsker å bruke med Facebook"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/general-options.php:75
+#: plugin-options/premium-general-options.php:91
+msgid "Like and Share Buttons"
+msgstr "Like og deleknapper"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/general-options.php:76
+#: plugin-options/premium-general-options.php:92
+msgid "Like Button Only"
+msgstr "Kun likeknapp"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/general-options.php:77 plugin-options/general-options.php:144
+#: plugin-options/premium-general-options.php:93
+#: plugin-options/premium-general-options.php:160
+msgid "Share Button Only"
+msgstr "Kun deleknapp"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/general-options.php:86
+#: plugin-options/premium-general-options.php:102
+msgid "Twitter"
+msgstr "Twitter"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/general-options.php:90
+#: plugin-options/premium-general-options.php:106
+msgid "Enable Twitter sharing"
+msgstr "Aktiver deling via Twitter"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/general-options.php:96
+#: plugin-options/premium-general-options.php:112
+msgid "Twitter username"
+msgstr "Twitter brukernavn"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/general-options.php:98
+#: plugin-options/premium-general-options.php:114
+msgid ""
+"Set this option if you want to include \"via @YourUsername\" to your tweets"
+msgstr ""
+"Aktiver dette alternativet dersom du ønsker å inkludere \"via @DittBrukernavn"
+"\" til dine tweets."
+
+#: plugin-options/general-options.php:103
+#: plugin-options/premium-general-options.php:119
+msgid "Twitter Consumer Key (API Key)"
+msgstr ""
+
+#: plugin-options/general-options.php:109
+#: plugin-options/premium-general-options.php:125
+msgid "Twitter Consumer Secret (API Secret)"
+msgstr ""
+
+#: plugin-options/general-options.php:115
+#: plugin-options/premium-general-options.php:131
+#: plugin-options/premium-general-options.php:191
+msgid "Callback URL"
+msgstr ""
+
+#: plugin-options/general-options.php:117
+#: plugin-options/premium-general-options.php:133
+msgid ""
+"Copy this text string into the \"Callback URL\" field of your Twitter App"
+msgstr ""
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/general-options.php:125
+#: plugin-options/premium-general-options.php:141
+msgid "Google+"
+msgstr "Google+"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/general-options.php:129
+#: plugin-options/premium-general-options.php:145
+msgid "Enable Google+ sharing"
+msgstr "Aktiver deling via Google+"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/general-options.php:136
+#: plugin-options/premium-general-options.php:152
+msgid "Google+ Button Type"
+msgstr "Google+ knapptype"
+
+#: plugin-options/general-options.php:138
+#: plugin-options/premium-general-options.php:154
+msgid "Select the type of button you want to show for Google+."
+msgstr ""
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/general-options.php:142
+#: plugin-options/premium-general-options.php:158
+msgid "+1 and Share Buttons"
+msgstr "+1 og deleknapper"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/general-options.php:143
+#: plugin-options/premium-general-options.php:159
+msgid "+1 Button Only"
+msgstr "Kun +1 knapp"
+
+#: plugin-options/premium-general-options.php:169
+msgid "Linkedin"
+msgstr ""
+
+#: plugin-options/premium-general-options.php:173
+msgid "Enable Linkedin sharing"
+msgstr ""
+
+#: plugin-options/premium-general-options.php:179
+msgid "Linkedin Client ID"
+msgstr ""
+
+#: plugin-options/premium-general-options.php:185
+msgid "Linkedin Client Secret"
+msgstr ""
+
+#: plugin-options/premium-general-options.php:193
+msgid ""
+"Copy this text string into the \"Authorized Redirect URLs\" field of your "
+"Linkedin App"
+msgstr ""
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/premium-general-options.php:201
+msgid "Email to a friend"
+msgstr "E-post til en venn"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/premium-general-options.php:205
+msgid "Enable email sharing"
+msgstr "Aktiver deling via e-post"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:23
+msgid "Box title before sharing"
+msgstr "Titteltekst over delingsknapper"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:25
+msgid "Share and get your discount!"
+msgstr "Del med venner og få ekstra rabatt!"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:28
+msgid "Title showed above the sharing buttons"
+msgstr "Titteltekst som fremkommer over delingsknappene."
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:31
+msgid "Box title after sharing"
+msgstr "Titteltekst som fremkommer etter deling"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:36
+msgid "Title showed after the sharing"
+msgstr "Titteltekst som fremkommer etter at deling er utført."
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:39
+msgid "Message after sharing"
+msgstr "Melding som fremkommer etter deling"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:44
+msgid "Text that replaces the buttons after the sharing"
+msgstr "Melding som erstatter delingsknappene etter utført deling."
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:47
+msgid "Show on product page"
+msgstr "Vis på produktsiden"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:57
+msgid "Product page position"
+msgstr "Plassering på produktsiden"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:62
+msgid ""
+"The position where the sharing buttons are showed in product detail pages."
+msgstr "Posisjonen der delingsknappene fremkommer på produktdetaljsiden."
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:64
+msgid "Before title"
+msgstr "Før tittel"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:65
+msgid "After price"
+msgstr "Etter pris"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:66
+msgid "Before \"Add to cart\""
+msgstr "Før \"Legg i kurven\""
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:67
+msgid "Before tabs"
+msgstr "Før fanene"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:68
+msgid "Between tabs and related products"
+msgstr "Mellom fanene og relaterte produkter"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:69
+msgid "After related products"
+msgstr "Etter relaterte produkter"
+
+#: plugin-options/share-options.php:73
+msgid "Enable on on-sale products"
+msgstr ""
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:83
+msgid "Show on checkout page"
+msgstr "Vis på kassesiden"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:93
+msgid "Checkout position"
+msgstr "Plassering på kassesiden"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:98
+msgid "The position where share buttons are showed in checkout page."
+msgstr "Posisjonen der delingsknappene fremkommer på kassesiden."
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:100
+msgid "Before customer details"
+msgstr "Før kundedetaljer"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:101
+msgid "After customer details"
+msgstr "Etter kundedetaljer"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:105
+msgid "Show on cart page"
+msgstr "Vis på handlekurvsiden"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:115
+msgid "Cart page position"
+msgstr "Plassering på handlekurvsiden"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:120
+msgid "The position where share buttons are showed in cart page."
+msgstr "Posisjonen der delingsknappene fremkommer på handlekurvsiden."
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:122
+msgid "Before cart"
+msgstr "Før handlekurven"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:123
+msgid "Cart collaterals"
+msgstr "Handlekurv kollateraler"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:124
+msgid "After cart"
+msgstr "Etter handlekurven"
+
+#: plugin-options/share-options.php:132
+msgid "Custom Sharing Settings"
+msgstr ""
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:136
+msgid "URL to share"
+msgstr "Nettadressen som skal deles"
+
+#: plugin-options/share-options.php:141
+msgid "If not specified, the page URL will be used"
+msgstr ""
+
+#: plugin-options/share-options.php:144
+msgid "Custom message"
+msgstr ""
+
+#: plugin-options/share-options.php:149
+msgid ""
+"If not specified, the page name will be used (available only for Twitter & "
+"Email sharing)"
+msgstr ""
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:156
+msgid "Facebook OpenGraph Meta Defaults"
+msgstr "Facebook OpenGraph Metastandard"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:160
+msgid "Default Title"
+msgstr "Standard tittel"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:166
+msgid "Default Description"
+msgstr "Standard beskrivelse"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:172
+msgid "Default Image"
+msgstr "Standard bilde"
+
+# @ yith-woocommerce-share-for-discounts
+#: plugin-options/share-options.php:175
+msgid "Image size must be at least 200x200px"
+msgstr "Bildestørrelsen må være minst 200 x 200px"
+
+# @ yith-woocommerce-share-for-discounts
+#: templates/admin/class-ywsfd-custom-coupon-purge.php:110
+msgid "Remove expired coupons"
+msgstr "Slett utløpte rabattkuponger"
+
+# @ yith-woocommerce-share-for-discounts
+#: templates/admin/class-ywsfd-custom-coupon-purge.php:111
+msgid "Removal of expired coupons in progress..."
+msgstr "Sletting av utløpte rabattkuponger pågår..."
+
+# @ yith-plugin-fw
+# @ yith-woocommerce-share-for-discounts
+#: templates/admin/class-ywsfd-custom-image-upload.php:97
+msgid "Upload"
+msgstr "Last opp"
+
+# @ woocommerce
+#: templates/admin/custom-coupon.php:51
+msgid "Description"
+msgstr ""
+
+# @ woocommerce
+#: templates/admin/custom-coupon.php:62
+msgid "Discount type"
+msgstr ""
+
+# @ woocommerce
+#: templates/admin/custom-coupon.php:91
+msgid "Coupon amount"
+msgstr ""
+
+# @ yith-woocommerce-share-for-discounts
+#: templates/admin/custom-coupon.php:105
+msgid "Number of days after which the coupon expires"
+msgstr "Antall dager kupongen skal være aktiv før den utløper."
+
+# @ woocommerce
+#: templates/admin/custom-coupon.php:113
+msgid "No expiration"
+msgstr ""
+
+# @ woocommerce
+#: templates/admin/custom-coupon.php:129
+msgid "Allow free shipping"
+msgstr ""
+
+# @ yith-woocommerce-share-for-discounts
+#: templates/frontend/fb-share-btn.php:3
+#: templates/frontend/lnk-share-btn-premium.php:4
+#: templates/frontend/lnk-share-form-premium.php:13
+msgid "Share"
+msgstr "Del"
+
+#: templates/frontend/lnk-share-form-premium.php:4
+msgid "Your Message"
+msgstr ""
+
+#: templates/frontend/lnk-share-form-premium.php:12
+#: templates/frontend/tw-tweet-form.php:13
+msgid "Cancel"
+msgstr ""
+
+# @ yith-woocommerce-share-for-discounts
+#: templates/frontend/mail-btn-premium.php:4
+msgid "Send to a friend"
+msgstr "Send til en venn"
+
+# @ yith-woocommerce-share-for-discounts
+#: templates/frontend/mail-form-premium.php:18
+msgid "Message"
+msgstr "Melding"
+
+# @ yith-woocommerce-share-for-discounts
+#: templates/frontend/mail-form-premium.php:28
+msgid "Send email"
+msgstr "Send meldingen"
+
+#: templates/frontend/tw-tweet-btn.php:4
+#: templates/frontend/tw-tweet-form.php:14
+msgid "Tweet"
+msgstr ""
+
+#: templates/frontend/tw-tweet-form.php:4
+msgid "Your Tweet"
+msgstr ""
+
+#: templates/frontend/tw-tweet-form.php:8
+msgid "Remaining characters"
+msgstr ""
+
+# @ yith-woocommerce-share-for-discounts
+#~ msgid ""
+#~ "Select the type of button you want to show for Google+. Note: because of "
+#~ "a bug unresolved by Google, the \"Share\" button could not generate the "
+#~ "coupon correctly. For more information about the bug, please click here:"
+#~ msgstr ""
+#~ "Velg den type knapp du ønsker å bruke med Google+. Merk: På grunn av en "
+#~ "uløst feil hos Google, kan ikke \"Dele\" -knappen generere rabattkupongen "
+#~ "riktig. For mer informasjon om denne feilen, klikk her:"
+
+# @ yith-woocommerce-share-for-discounts
+#~ msgid "If not specified, it will be used the URL of the page"
+#~ msgstr "Dersom ikke spesifisert, vil nettadressen til aktuell side brukes."
+
+# @ yith-woocommerce-share-for-discounts
+#~ msgid ""
+#~ "Note: due to a change made by twitter, you can not be sure that the "
+#~ "tweets are published, so the coupons will be given even if the tweet is "
+#~ "canceled. For more information about this change, please click here:"
+#~ msgstr ""
+#~ "Merk: På grunn av en endring utført av Twitter, kan du ikke være sikker "
+#~ "på at alle tweets blir publisert. Rabattkuponger vil bli aktivert selv om "
+#~ "tweet blir kansellert. For mer informasjon om denne endringen, klikke her:"
